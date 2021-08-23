@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Registry xmlns ="http://www.registar.com" xmlns:ms ="http://www.registar.com/ScoreVariant">
+	<Student>
+		<FirstName>RP</FirstName>
+		<Value>
+			<ms:String>Pass</ms:String>
+		</Value>
+	</Student>
+	<Student>
+		<FirstName>SK</FirstName>
+		<Value>
+			<ms:Int>100</ms:Int>
+		</Value>
+	</Student>
+</Registry>
